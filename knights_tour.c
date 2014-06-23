@@ -3,7 +3,6 @@
 
 /* use backtracking to find first solution */
 int _solve(int x, int y, int** board, int n){
-    /* check legal */
     const int moves[4] = {-2,-1,1,2};
     /* check if solution */
     if(board[x][y] == n * n){
