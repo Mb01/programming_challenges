@@ -1,3 +1,5 @@
+#! /usr/bin/env mzscheme
+#lang scheme
 ; my first "real program" in scheme
 ; a brainf___ interpreter, you'll need to end your program in @
 ; tested with DrRacket #lang scheme
